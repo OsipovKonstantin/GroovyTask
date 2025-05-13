@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c65b805-253d-4e68-bee4-e0317347a16c" name="Changes" comment="">
+    <list default="true" id="0c65b805-253d-4e68-bee4-e0317347a16c" name="Changes" comment="feat: add frequency count function on groovy">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/groovy/Main.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/groovy/Main.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/groovy/groovy/CountFrequency.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/groovy/groovy/CountFrequency.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/groovy/javas/CountFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/groovy/javas/CountFrequency.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +32,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Константин/dev/leetcode",
-    "nodejs_package_manager_path": "npm"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn install" />
@@ -78,6 +70,14 @@
       <updated>1717094167859</updated>
       <workItem from="1717094169085" duration="1724000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: add frequency count function on groovy">
+      <created>1747136032014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747136032014</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add frequency count function on groovy" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add frequency count function on groovy" />
   </component>
 </project>
